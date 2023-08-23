@@ -17,5 +17,5 @@ Registration of user
 CRUD operations for listing properties, making profile IDs  
 Backend server deployed using Render  
 Domain for the app provided by Netlify  
-Cloudinary for enabling your users to upload media from a variety of sources for immediate use on the website  
+Cloudinary for enabling users to upload media from a variety of sources for immediate use on the website  
 MongoDB Atlas for deploying and managing database
