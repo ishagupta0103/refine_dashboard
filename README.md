@@ -12,7 +12,7 @@ Node.js
 <img src="https://github.com/ishagupta0103/refine_dashboard/blob/main/Screenshot%20from%202023-08-23%2014-42-20.png?raw=true" width=100% height=100%>
 
 # Key Features
-User authentication by Google Cloud OAuth  
+User authentication by Google Auth Provider   
 Registration of user  
 CRUD operations for listing properties, making profile IDs  
 Backend server deployed using Render  
