@@ -1,5 +1,5 @@
 # refine_dashboard 
-A MERN stack web application. A place where people can list their properties, see listed properties, contact agents, and see the revenues.  
+A MERN stack web application made using Refine (React-based framework) including user authentication and registration, CRUD operations. Here we can list real-estate properties, see listed properties, contact agents, and see the revenues  
 
 # Technologies Used
 MongoDB  
